@@ -219,9 +219,15 @@ Ensure you commit your work to your local Git repository and push it to GitHub.
 # Conclusion 📄
 In this project, you learned how to create and manipulate arrays in JavaScript, including adding, removing, accessing, and modifying elements. You also explored how to create subarrays, check for item existence, combine arrays, and debug common errors. These foundational skills will enable you to manage data effectively in your JavaScript programs.
 
+##
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-04-array-adventures/tree/solution) (link not shown).
+
 ---
 
-### Solution Codebase 👀
-🛑 **Only use this as a reference** 🛑  
-💾 **Not something to copy and paste** 💾  
-**Note:** This lab references a solution file located here.
+© All rights reserved to ThriveDX
