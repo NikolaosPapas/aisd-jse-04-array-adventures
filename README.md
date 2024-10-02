@@ -19,7 +19,7 @@ You will begin by setting up your project structure.
 - [ ] Create a folder named `ArraysProject` to store your project files.
 - [ ] Inside the `ArraysProject` folder, create a file named `index.js`. This file will contain all your JavaScript code.
 
----
+
 
 ## 2. **Create a Book Collection Array**
 You will start by creating an array to store a list of books.
@@ -43,7 +43,7 @@ console.log(bookCollection); // Expected output: ["The Great Gatsby", "To Kill a
 - The variable `bookCollection` holds an array containing three book titles. 
 - The `console.log()` function prints the array to the console, displaying the list of books you have added.
 
----
+
 
 ## 3. **Adding Books to the Collection**
 Next, you can learn to add more books to your array using the `.push()` method.
@@ -67,7 +67,7 @@ console.log(bookCollection); // Expected output: ["The Great Gatsby", "To Kill a
 - The `.push()` method adds new elements to the end of the array. 
 - After this operation, the `bookCollection` now contains five book titles, demonstrating how to expand your data structure.
 
----
+
 
 ## 4. **Removing a Book from the Collection**
 You will now learn to remove the last book using the `.pop()` method.
@@ -93,7 +93,7 @@ Brave New World
 - The `.pop()` method removes the last element from the array and returns it.
 - You will see the last book removed from the collection, reflecting the updated state of `bookCollection`.
 
----
+
 
 ## 5. **Accessing and Modifying Books in the Collection**
 Next, you can learn to access and modify books within your array.
@@ -116,7 +116,7 @@ console.log(bookCollection); // Expected output: ["The Great Gatsby (Revised Edi
 **Explanation:**
 - You can access array elements using their index, which starts from 0.
 - The first book title is updated, and this change is reflected in the output, demonstrating how to modify elements within an array.
----
+
 
 ## 6. **Creating a Subarray of Fiction Books**
 You will now learn how to extract a portion of the array using the `.slice()` method.
@@ -140,7 +140,7 @@ console.log(fictionBooks); // Expected output: ["The Great Gatsby (Revised Editi
 - The `.slice(startIndex, endIndex)` method creates a new array from the original array.
 - It includes elements from the start index up to, but not including, the end index.
 
----
+
 
 ## 7. **Checking for a Book in the Collection**
 You will learn how to check if a specific book exists in your array using the `.includes()` method.
@@ -163,7 +163,7 @@ true
 **Explanation:**
 - The `.includes()` method checks for the presence of an item and returns `true` if found or `false` if not.
 
----
+
 
 ## 8. **Combining with a Series Array**
 Next, you can learn how to combine your `bookCollection` with a series array using the `.concat()` method.
@@ -187,7 +187,7 @@ console.log(completeCollection); // Expected output: ["The Great Gatsby (Revised
 **Explanation:**
 - The `.concat()` method merges two or more arrays without modifying the original arrays, demonstrating how to expand your data structure further.
 
----
+
 
 ## 9. **Debugging Common Errors**
 You will use `console.log()` to monitor the state of your array throughout your code to catch errors.
@@ -204,17 +204,17 @@ console.log("After adding 'The Catcher in the Rye':", bookCollection);
 **Explanation:**
 - Logging the state of your array helps identify issues, such as incorrect values or unexpected results, enhancing your debugging skills.
 
----
+
 
 ## 10. **Test Your Knowledge**
 Finally, you can practice your skills by writing additional code using what you’ve learned about arrays. Consider creating an array of your favorite recipes, adding and removing titles, checking for specific recipes, and creating subarrays based on categories like appetizers or desserts.
 
----
+
 
 ## 11. **Commit and Push to GitHub**
 Ensure you commit your work to your local Git repository and push it to GitHub.
 
----
+
 
 # Conclusion 📄
 In this project, you learned how to create and manipulate arrays in JavaScript, including adding, removing, accessing, and modifying elements. You also explored how to create subarrays, check for item existence, combine arrays, and debug common errors. These foundational skills will enable you to manage data effectively in your JavaScript programs.
@@ -228,6 +228,6 @@ In this project, you learned how to create and manipulate arrays in JavaScript, 
 
 **Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-04-array-adventures/tree/solution) (link not shown).
 
----
+
 
 © All rights reserved to ThriveDX
